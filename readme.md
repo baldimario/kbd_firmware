@@ -1,5 +1,11 @@
 # KBD firmware
 
+## Fix for Alpha Mod animation
+
+This fork fixes alpha mod animation by setting in keyboard.json of standard crkbd changing the flags for the leftmost, rightmost, thumb and extra keys to 1 to set them as modifier. 
+
+After flashing this version of the firmware open vial and select the backlight pane, select "Alphas Mods" from the animation selection menu and change the primary color with the color picker and the Hue of the secondary color with the speed slider.
+
 ## How to build
 
 ## 1. Setting Up Your QMK Environment
