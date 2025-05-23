@@ -6,6 +6,11 @@ This fork fixes alpha mod animation by setting in keyboard.json of standard crkb
 
 After flashing this version of the firmware open vial and select the backlight pane, select "Alphas Mods" from the animation selection menu and change the primary color with the color picker and the Hue of the secondary color with the speed slider.
 
+<br/>
+<p align="center">
+    <img src="https://github.com/baldimario/kbd_firmware/blob/main/alphas_mods.jpeg?raw=true" width="500px" alt="Alphas Mods" />
+</p>
+
 ## How to build
 
 ## 1. Setting Up Your QMK Environment
